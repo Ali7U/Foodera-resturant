@@ -267,7 +267,7 @@
   text-transform: uppercase;
   font-size: 17px;
 }
-.row h2{
+.row .text{
   color: #f6f6f6;
 }
 .slider .carousel-indicators  li{
